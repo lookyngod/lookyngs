@@ -1,0 +1,2 @@
+# lookyngs
+learning script
